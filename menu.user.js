@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         FUT20 Autobuyer Menu
+// @name         FUT21 Autobuyer Menu
 // @namespace    http://tampermonkey.net/
 // @version      0.6
-// @updateURL    https://github.com/oRastor/fut20-web-app/raw/master/menu.user.js
-// @description  try to take over the world!
-// @author       Rastor
-// @match        https://www.easports.com/uk/fifa/ultimate-team/web-app/*
-// @match        https://www.easports.com/fifa/ultimate-team/web-app/*
+// @updateURL    https://github.com/oRastor/fut21-web-app/raw/master/menu.user.js
+// @description  Big money
+// @author       Bart Koopman
+// @match        https://www.ea.com/en-gb/fifa/ultimate-team/web-app/*
+// @match        https://www.ea.com/fifa/ultimate-team/web-app/*
 // @grant        none
 // ==/UserScript==
 
